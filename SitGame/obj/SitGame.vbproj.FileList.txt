@@ -1,0 +1,10 @@
+bin\Debug\SitGame.exe
+bin\Debug\SitGame.pdb
+bin\Debug\SitGame.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SitGame.MainForm.resources
+obj\Debug\SitGame.Resources.resources
+obj\Debug\SitGame.vbproj.GenerateResource.Cache
+obj\Debug\SitGame.exe
+obj\Debug\SitGame.xml
+obj\Debug\SitGame.pdb
